@@ -1,0 +1,23 @@
+ExifTool Version Number         : 12.84
+File Name                       : yoga.jpg
+Directory                       : .
+File Size                       : 109 kB
+File Modification Date/Time     : 2024:05:11 18:27:09+02:00
+File Access Date/Time           : 2024:05:11 18:57:36+02:00
+File Creation Date/Time         : 2024:05:11 18:27:09+02:00
+File Permissions                : -rw-rw-rw-
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1200
+Image Height                    : 900
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1200x900
+Megapixels                      : 1.1
